@@ -1,1 +1,1 @@
-Linear regression python implementation.
+Linear regression python implementation
